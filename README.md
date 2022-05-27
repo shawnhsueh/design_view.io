@@ -22,7 +22,7 @@
   <li><a href="jmol_surfaces.html">jmol_surfaces.html - Jmol Surfaces Demo page (jmol_surfaces.html)</a></li>
 </ul>
 
-<iframe src="https://www.ncbi.nlm.nih.gov/Structure/icn3d/full.html?url=https://raw.githubusercontent.com/shawnhsueh/design_view.io/main/mol/relaxed_model_1_rank0_bfactor.pdb&width=500&height=500&showcommand=0&mobilemenu=1&showtitle=0" width="320" height="320" style="border:none"></iframe>
+<iframe src="https://www.ncbi.nlm.nih.gov/Structure/icn3d/full.html?url=https://raw.githubusercontent.com/shawnhsueh/design_view.io/main/mol/relaxed_model_1_rank0_bfactor.pdb&width=500&height=500&showcommand=0&mobilemenu=1&showtitle=0" width="820" height="520" style="border:none"></iframe>
 
 <!-- include Fork-me-on-GitHub-ribbon: -->
 <a href="https://github.com/ostueker/simple_jmol_demo/"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png"></a>
