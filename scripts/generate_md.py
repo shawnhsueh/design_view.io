@@ -1,7 +1,7 @@
 import glob
 
 file_list = glob.glob('/storage5/shawn/coronavirus/github/design_view.io/mol/*/*')
-with open('/storage5/shawn/coronavirus/github/design_view.io/scripts/tmp.md','r+') as f:
+with open('/storage5/shawn/coronavirus/github/design_view.io/scripts/template_md_file','r+') as f:
     txt_original = f.read()
 for i in range(len(file_list)):
     toks = file_list[i].split('/')
