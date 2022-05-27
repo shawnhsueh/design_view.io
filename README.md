@@ -9,9 +9,9 @@
 
 <p>This is a demo project how to create simple HTML pages with Jmol/JSmol.</p>
 
-<p>View the pages online at: <a href="http://ostueker.github.io/simple_jmol_demo/">http://ostueker.github.io/simple_jmol_demo/</a></p>
+<p>View the pages online at: <a href="https://shawnhsueh.github.io/design_view.io/">https://shawnhsueh.github.io/design_view.io/</a></p>
 
-<p>Find the GitHub Repository at: <a href="https://github.com/ostueker/simple_jmol_demo/">https://github.com/ostueker/simple_jmol_demo/</a></p>
+<p>Find the GitHub Repository at: <a href="https://github.com/shawnhsueh/design_view.io">https://github.com/shawnhsueh/design_view.io</a></p>
 
 <p>The repo consists of the following pages:</p>
 
