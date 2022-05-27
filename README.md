@@ -22,7 +22,7 @@
   <li><a href="jmol_surfaces.html">jmol_surfaces.html - Jmol Surfaces Demo page (jmol_surfaces.html)</a></li>
 </ul>
 
-<iframe src="https://www.ncbi.nlm.nih.gov/Structure/icn3d/full.html?url=https://raw.githubusercontent.com/shawnhsueh/design_view.io/main/mol/relaxed_model_1_rank0_bfactor.pdb&width=800&height=500&showcommand=0&mobilemenu=1&showtitle=0" width="820" height="520" style="border:none"></iframe>
+<iframe src="https://www.ncbi.nlm.nih.gov/Structure/icn3d/full.html?url=https://raw.githubusercontent.com/shawnhsueh/design_view.io/main/mol/relaxed_model_1_rank0_bfactor.pdb&width=800&height=500&showcommand=1&mobilemenu=1&showtitle=1&&command=color+b+factor" width="820" height="520" style="border:none"></iframe>
 
 
 </body>
