@@ -1,6 +1,6 @@
 ---
 title: 1repeat_omicron
-parent: S2
+parent: POI
 has_children: false
 nav_order: 12
 ---
