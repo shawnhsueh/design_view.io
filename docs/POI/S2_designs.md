@@ -1,5 +1,5 @@
 ---
-title: S2_design
+title: S2_designs
 parent: POI
 has_children: false
 nav_order: 1
