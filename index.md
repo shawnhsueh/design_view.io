@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "This website curated the alphafold predicted structure of the HIS-SUMO-POI-LINKER-GFP constructs"
+description: "The visualization of Shawn's S2-vaccines and 4-helix-bundles designs"
 permalink: /
 ---
 
@@ -10,4 +10,4 @@ permalink: /
 
 <p>Find the GitHub Repository at: <a href="https://github.com/shawnhsueh/design_view.io">https://github.com/shawnhsueh/design_view.io</a></p>
 
-This website curated the alphafold predicted structure of the HIS-SUMO-POI-LINKER-GFP constructs
+This website curated Shawn's designed structures of S2-vaccines and 4-helix-bundles. The alphafold predicted structure of the HIS-SUMO-POI-LINKER-GFP constructs are also curated.
