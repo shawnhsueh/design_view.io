@@ -1,6 +1,7 @@
 ---
 title: 1repeat_omicron
 parent: S2
+grand_parent:HIS-SUMO-POI-LINKER-GFP
 has_children: false
 nav_order: 12
 ---
